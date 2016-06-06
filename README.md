@@ -1,4 +1,4 @@
-# javascript
+# Javascript
 JavaScript程式設計語言, 開發技術等知識管理共筆
 
 ## 使用github issue寫微部落格
